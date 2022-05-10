@@ -11,9 +11,9 @@ title                    : "Darby Jack at Columbia University"
 title_separator          : "-"
 name                     : &name "Darby Jack"
 description              : &description "Associate Professor at CUMC"
-url                      : https://darbyjack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dwjack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "darbyjack.github.io"
+repository               : "dwjack.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &@darbyjack
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Darby Jack"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
